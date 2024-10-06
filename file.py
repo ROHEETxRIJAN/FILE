@@ -10,11 +10,4 @@ if bit == "64bit":
  print('• \033[1;37m\u001b[31m>>\033[0m\033[1;37m 64BIT FOUND')
  time.sleep(2)
  import run
-
  
- 
- 
-if bit == "32bit":
- print('• \033[1;37m\u001b[31m>>\033[0m\033[1;37m 32BIT FOUND')
- time.sleep(2)
- print('• \033[1;37m\u001b[31m>>\033[0m\033[1;37m 32BIT NOT SUPPORTED')
