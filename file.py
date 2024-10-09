@@ -1,1 +1,1 @@
-from aalu import menu
+import aalu
